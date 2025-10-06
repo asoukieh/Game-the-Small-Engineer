@@ -64,6 +64,8 @@ X-Change Card – modifies shape strength based on the ratio of cards between pl
 
 Add Shadow, and Quantum special cards.
 
+Add a polygon card that results from the combination of T + C + S.
+
 Expand with new shapes (Pentagon, Hexagon, Star).
 
 Create a digital version of the game with AI logic.
