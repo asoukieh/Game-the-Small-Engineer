@@ -62,7 +62,7 @@ X-Change Card – modifies shape strength based on the ratio of cards between pl
 
 🚀 Future Plans
 
-Add Shadow, Mirror, and Quantum special cards.
+Add Shadow, and Quantum special cards.
 
 Expand with new shapes (Pentagon, Hexagon, Star).
 
