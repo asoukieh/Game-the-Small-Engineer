@@ -32,12 +32,15 @@ You can track progress, suggest new features, or contribute to any open task bel
 - [ ] Add online multiplayer (optional)
 - [ ] Release browser demo (GitHub Pages)
 
-### 🌈 AR / “Goloraming” Version
-- [ ] Model 3D shapes in Blender
-- [ ] Link printed cards to AR markers
-- [ ] Build AR demo using Unity + Vuforia
-- [ ] Add real-world interactions (tap, rotate, glow)
-- [ ] Playtest mixed-reality version
+### 🌌 Hologram & Real-World Representation
+- [ ] Define "Goloraming" mode (AR + holographic gameplay)
+- [ ] Assign each card a unique AR marker (QR/image)
+- [ ] Model 3D shapes (Circle, Square, Triangle, Fusions, Polygon)
+- [ ] Implement special-effect animations for Fusion, Shadow, and X-Change
+- [ ] Add holographic attribute visualization (Area, Perimeter, Center)
+- [ ] Create real-world engineering interactions (measure, rotate, assemble)
+- [ ] Develop mobile AR viewer app (Unity, WebAR, or ARKit/ARCore)
+- [ ] Launch hologram demo for classroom & STEM events
 
 ### 🧮 Educational & Engineering Mode
 - [ ] Add visual explanation of geometric formulas
